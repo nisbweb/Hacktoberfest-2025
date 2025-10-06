@@ -26,7 +26,7 @@ flowchart LR
 -Register for [Hacktoberfest](https://hacktoberfest.com/).
 
 ## Step 1 - FORK:
-![img2](https://drive.google.com/file/d/1XTBPSzRf50vAGZ76CEgB6ZCzK4X4JTte/view?usp=sharing)
+![img2](./assets/fork.png)
 
 Fork the repository to your GitHub account.
 
